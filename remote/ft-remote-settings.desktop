@@ -7,3 +7,4 @@ Exec=@REPO@/remote/ft-remote-settings
 Icon=preferences-desktop-remote-desktop
 Categories=Settings;Network;
 Keywords=vnc;remote;desktop;tailscale;screen sharing;frametop;
+OnlyShowIn=KDE

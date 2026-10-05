@@ -812,7 +812,7 @@ def write_launchers(layout):
             "[Desktop Entry]", "Type=Application", f"Name=Frametop: {name}",
             "Comment=Open the Frametop desktop in this profile: its screens and apps",
             f"Exec={os.path.join(REPO, 'layout', 'ft-layout')} open {quoted}",
-            "Icon=preferences-desktop-display", "Categories=Utility;", "X-Frametop-Profile=true", ""])
+            "Icon=/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-display.svg", "Categories=Utility;", "X-Frametop-Profile=true", ""])
     for f in os.listdir(LAUNCHERS):
         if f.startswith("frametop-profile-") and f.endswith(".desktop") and f not in want:
             os.remove(os.path.join(LAUNCHERS, f))
