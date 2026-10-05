@@ -7,3 +7,4 @@ Exec=@REPO@/input-settings/ft-input-settings
 Icon=input-mouse
 Categories=Settings;HardwareSettings;
 Keywords=mouse;pointer;bluetooth;keyboard;steamvr;frametop;
+OnlyShowIn=KDE

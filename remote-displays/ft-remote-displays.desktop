@@ -7,3 +7,4 @@ Exec=@REPO@/remote-displays/ft-remote-displays
 Icon=network-workgroup
 Categories=Settings;HardwareSettings;Network;
 Keywords=remote;display;monitor;moonlight;vibepollo;sunshine;stream;pc;frametop;
+OnlyShowIn=KDE

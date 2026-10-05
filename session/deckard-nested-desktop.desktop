@@ -8,7 +8,7 @@ Categories=Utility;
 # Installed by desktops.sh install into ~/.local/share/applications,
 # where it overrides /usr/share/applications/deckard-nested-desktop.desktop.
 # Remove it with desktops.sh uninstall to get the stock desktop back.
-Icon=desktop
+Icon=/usr/share/icons/breeze-dark/places/32/desktop.svg
 X-Steam-Library-Capsule=/usr/share/applications/steam/steamos-nested-desktop/capsule.png
 X-Steam-Library-Hero=/usr/share/applications/steam/steamos-nested-desktop/hero.png
 X-Steam-Library-Logo=/usr/share/applications/steam/steamos-nested-desktop/logo.png

@@ -7,3 +7,4 @@ Exec=@REPO@/display-settings/ft-display-settings
 Icon=video-display
 Categories=Settings;HardwareSettings;
 Keywords=display;screen;monitor;resolution;layout;arrange;steamvr;frametop;
+OnlyShowIn=KDE
